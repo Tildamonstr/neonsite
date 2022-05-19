@@ -24,13 +24,11 @@
 
 @font-face {
     font-family: 'Avenir Next Cyr';
-    src: url('https://tildamonstr.github.io/neonsite/AvenirNextCyr-Demi.woff') format('woff');
-    font-weight: bold;
+    src: url('https://tildamonstr.github.io/neonsite/AvenirNextCyr-Medium.woff') format('woff');
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
-
-
 
 @font-face {
     font-family: 'Marske';
