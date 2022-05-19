@@ -23,12 +23,14 @@
 }
 
 @font-face {
-    font-family: 'Andale Mono';
-    src: url('https://tildamonstr.github.io/neonsite/AndaleMono.woff') format('woff');
-    font-weight: normal;
+    font-family: 'Avenir Next Cyr';
+    src: url('https://tildamonstr.github.io/neonsite/AvenirNextCyr-Medium.woff') format('woff');
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
+
+
 
 @font-face {
     font-family: 'Marske';
