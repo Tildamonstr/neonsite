@@ -25,7 +25,7 @@
 @font-face {
     font-family: 'Comfortaa';
     src: url('https://tildamonstr.github.io/neonsite/Comfortaa-Medium.woff') format('woff');
-    font-weight: normal;
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
